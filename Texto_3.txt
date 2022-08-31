@@ -1,0 +1,6 @@
+5
+T ( \lor a ( \neg b ) )
+F ( \land ( \neg a ) ( \neg b ) )
+F ( \land a b )
+T ( \neg a b )
+T ( a b )

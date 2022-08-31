@@ -1,0 +1,5 @@
+4
+a
+ab
+( \neg a ) ( \Rightarrow b c )
+( \Leftrightarrow ( \neg a ) b )

@@ -1,0 +1,4 @@
+3
+T ( \neg a )
+F ( \lor x y )
+T ( \Leftrightarrow y z )
